@@ -4,7 +4,7 @@ This was the school project for practicing [Mocha](https://mochajs.org/) and [Ch
 
 ## Team members
 - [vishal kumar](https://github.com/vxshal/)
-- [jaskaran singh virk]
+- jaskaran singh virk
 
 ## Setup
 1, Clone this repository to your machine.
